@@ -1,5 +1,6 @@
 # FLO_RFM_CLTV
 RFM analysis and CLTV predictions for FLO dataset
+
 ![rsz_modern-brown-male-shoes-at-showcase-in-shop-4334194](https://user-images.githubusercontent.com/110662602/192845350-844a35ed-31b2-4ce1-94a5-64580a52d864.jpg)
 
 ## Buisness Problem:
